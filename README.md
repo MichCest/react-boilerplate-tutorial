@@ -1,5 +1,7 @@
 # Building a React Boilerplate App from scratch
 
+**This full tutorial with commentary is available on [Medium](https://medium.com/@mcestone/building-a-react-boilerplate-app-from-scratch-f604e443fffd).**
+
 [create-react-app](https://create-react-app.de) is a simple way to setup an entire app by running a single command. While this is a great way to create an app quickly, you are left without full understanding of your project and may have difficulty customizing your build. In this tutorial we will be building a boilerplate React project from scratch without using [create-react-app](https://create-react-app.dev/). This is great experience for any React developer to understand what is going on behind the scenes of their project.
 
 
